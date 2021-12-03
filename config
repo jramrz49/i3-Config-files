@@ -229,7 +229,7 @@ bindsym XF86AudioPrev exec playerctl previous
 exec_always feh --bg-scale /home/joshuaramirez/Pictures/nasa-45068.jpg
 
 #screen layout for 2 moniters
-exec_always xrandr --output DP-0 --off --output DP-1 --off --output DP-2 --off --output DP-3 --off --output HDMI-0 --mode 1920X1080 --pos 1920X0 --rotate normal --output DP-4 --mode 1920x1080 --pos 0x0 --rotate normal --output DP-5 --off
+#exec_always xrandr --output DP-0 --off --output DP-1 --off --output DP-2 --off --output DP-3 --off --output HDMI-0 --mode 1920X1080 --pos 1920X0 --rotate normal --output DP-4 --mode 1920x1080 --pos 0x0 --rotate normal --output DP-5 --off
 
 
 #Start up rofi
